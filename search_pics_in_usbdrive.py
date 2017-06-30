@@ -2,7 +2,7 @@ import re
 import os
 import ntpath as path
 import shutil
-# COMMENT
+# SECOND COMMIT FOR GIT
 path=r'E:\MAC\Dropbox_bkp\Arista'
 
 newpath=r'E:\MAC\MovedPics'
