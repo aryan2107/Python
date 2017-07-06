@@ -3,7 +3,7 @@ import os
 import ntpath as path
 import shutil
 # SECOND COMMIT FOR GIT
-path=r'C:\Users\aryan\PycharmProjects\classes'
+path=r'C:\Users\Public\Downloads\coding\Python\hackerrank'
 
 newpath=r'C:\Users\aryan\git\Python'
 

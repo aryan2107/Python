@@ -13,6 +13,7 @@ expr=r'\.(jpg|JPG|jpeg|JPEG|png|PNG)$'
 cnt=0
 
 
+
 for folder,subfolders, filenames in os.walk(path):
     print ('*' * 60)
     print ('IN FOLDER', folder)
